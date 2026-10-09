@@ -13,7 +13,7 @@ I am an undergraduate student at Beijing Normal University at Zhuhai. My previou
 1. Representation alignment methods for improving on-policy distillation, with an interest in connecting interpretability approaches with post-training.
 2. Diffusion-based speculative decoding.
 
-My research interests include LLM pretraining and post-training, efficient AI systems, AI infrastructure, and interpretability.
+My research interests include LLM pretraining and post-training, reinforcement learning (RL), efficient AI systems, AI infrastructure, and interpretability.
 
 Good questions lead to good ideas.
 
